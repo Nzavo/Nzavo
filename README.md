@@ -1,9 +1,9 @@
 <!-- Header Section -->
-<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100"/>
+<img src="[https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFiazhsNXh3dmlud3hyY2xiZmhvYnNwdWF4M3RzN3VzMW0ydXk5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnTLgXn0zFXjbqF152/giphy.gif)" width="100"/>
 
-# 👋🏾 Hi, I'm Madadi — a Data Science & Analytics Engineer from Nairobi 🇰🇪
+# 👋🏾 Hi, I'm Madadi — a Data Scientist|Analyst
 
-I specialize in building **scalable data pipelines**, crafting **ML models**, and developing **interactive dashboards** to drive actionable insights. Currently contributing to impactful projects at **Pathways Technologies** and **Zeraki**.
+I specialize in building **scalable data pipelines**, crafting **ML models**, and developing **interactive dashboards** to drive actionable insights.
 
 ---
 
@@ -56,13 +56,6 @@ I specialize in building **scalable data pipelines**, crafting **ML models**, an
 
 ---
 
-### 📘 Certifications
-- IBM Data Science – *Mar 2023*
-- Azure Administrator Associate – *Dec 2023*
-- Deep Learning Specialization – *May 2024*
-- Azure Data Scientist Associate – *Jun 2024*
-
----
 
 ### 📂 Featured Projects
 - **Customer 360 Dashboard** – Power BI + SQL + Python (Real-time insights)
