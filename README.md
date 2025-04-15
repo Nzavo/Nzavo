@@ -60,5 +60,4 @@
 --
 
 ### 🔭 Currently Working On:
-- **NTSA Big Data Project** – Building data pipelines and reporting systems for public sector decision-making.
-- **RAG-based Chatbot** – A Streamlit tool to analyze internal meeting PDFs.
+- **RAG-based Chatbot**
